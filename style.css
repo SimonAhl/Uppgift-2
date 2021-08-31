@@ -1,0 +1,43 @@
+body {
+    background-color: yellow;
+
+    color: white;
+}
+
+h1 {
+
+    font-size: 22px;
+
+    font-family: Arial;
+
+}
+
+.prog {
+
+    background-color: white;
+
+    color: black;
+
+    text-align: center;
+
+}
+
+.thoughts {
+
+    text-align: right;
+
+}
+
+.links {
+
+    text-decoration: none;
+
+}
+
+.self {
+
+    border-style: solid;
+
+    border-color: violet;
+
+}
